@@ -1,0 +1,48 @@
+[33mcommit 514a59c4ee0ed684e95ac6765eefaedc05c1f60f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: carlos carrillo <mdfac2000@hotmail.com>
+Date:   Sat Jun 15 10:14:14 2024 -0600
+
+    actualizacion de header y definicion
+
+[33mcommit 95b0eb96e6cd202a80d3d5911ce5dc653971920c[m
+Author: carlos carrillo <mdfac2000@hotmail.com>
+Date:   Sat Jun 15 10:12:55 2024 -0600
+
+    cambio de background
+
+[33mcommit d2ce79121372b0575b97e946f8d091383e60ca6c[m
+Author: carlos carrillo <mdfac2000@hotmail.com>
+Date:   Sat Jun 15 10:11:38 2024 -0600
+
+    cambio de logo
+
+[33mcommit b1840f0559c98b2379b66380859fe1a4bd008dcd[m
+Author: carlos carrillo <mdfac2000@hotmail.com>
+Date:   Sat Jun 15 10:10:34 2024 -0600
+
+    actualizacion de imagenes
+
+[33mcommit 3d379911ae92925bc23916760f25faf7c5fe138e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: dc32f74 2591bd4
+Author: Gonzalo Sánchez <gonzalo.sanchez.d@gmail.com>
+Date:   Mon Dec 6 13:37:46 2021 -0300
+
+    Merge branch 'main' of github.com:gsanchezd/fdsw-github
+
+[33mcommit dc32f74e427cd359c02d99c9de4133cd5a3dabcd[m
+Author: Gonzalo Sánchez <gonzalo.sanchez.d@gmail.com>
+Date:   Mon Dec 6 13:37:32 2021 -0300
+
+    first commit
+
+[33mcommit 2591bd4b97c96c2c9fce6fb1868028ed0d5bc0b8[m
+Author: Gonzalo Sánchez D <gonzalo.sanchez.d@gmail.com>
+Date:   Sun Dec 5 19:04:53 2021 -0300
+
+    Update README.md
+
+[33mcommit 604b207689c99a2fc47948068272959b8e240eba[m
+Author: Gonzalo Sánchez <gonzalo.sanchez.d@gmail.com>
+Date:   Sun Dec 5 18:34:01 2021 -0300
+
+    first commit
